@@ -1,3 +1,3 @@
 # Quiz-Game-App
-Quiz Game App
-[​Live link​]([​Live link​]()
+https://juspher-mokua.github.io/Quiz-Game-App/
+
